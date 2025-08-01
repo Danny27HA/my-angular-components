@@ -1,0 +1,16 @@
+{
+  "name": "@danny27ha/shared-components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^19.2.0",
+    "@angular/core": "^19.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Danny27HA/my-angular-components.git"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
